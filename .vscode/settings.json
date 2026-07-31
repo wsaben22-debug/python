@@ -10,6 +10,8 @@
    "files.encoding": "utf8",
   // 自動偵測 BOM（讓 VS Code 自動識別 UTF-8 BOM 檔案）
    "files.autoGuessEncoding": true,
-   "markdown.preview.fontFamily": "'Microsoft JhengHei', 'PingFang TC', sans-serif"
+   "markdown.preview.fontFamily": "'Microsoft JhengHei', 'PingFang TC', sans-serif",
+
+   
 
 }
